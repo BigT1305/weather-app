@@ -3,7 +3,7 @@
 ---
 
 This project was built using  
--[React](https://reactjs.org)
+-[React](https://reactjs.org)  
 -The [OpenWeather](https://openweathermap.org/) API
 
 ---
